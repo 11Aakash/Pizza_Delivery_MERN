@@ -1,0 +1,87 @@
+[
+    {
+        "name":"Pepperbarbecue Checken",
+        "varients":["small","medium","large"],
+        "prices":[
+            {
+                "small":200,
+                "medium":350,
+                "large":400,
+            },
+        ],
+        "category":"nonveg",
+        "image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=428&q=80",
+        "description":"Pepper Barbecue Checken I Cheese"
+    },
+    {
+        "name":"Noneveg Supreme",
+        "varients":["small","medium","large"],
+        "prices":[
+            {
+                 "small":200,
+                "medium":350,
+                "large":400,
+            },
+        ],
+        "category":"nonveg",
+        "image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=428&q=80",
+        "description":"Noneveg Supreme I Cheese"
+    },
+    {
+        "name":"Seven Cheese",
+        "varients":["small","medium","large"],
+        "prices":[
+            {
+                 "small":200,
+                "medium":350,
+                "large":400,
+            },
+        ],
+        "category":"veg",
+        "image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=428&q=80",
+        "description":"Seven Cheese I Cheese"
+    },
+    {
+        "name":"Paneer Chilly",
+        "varients":["small","medium","large"],
+        "prices":[
+            {
+                 "small":200,
+                "medium":350,
+                "large":400,
+            },
+        ],
+        "category":"veg",
+        "image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=428&q=80",
+        "description":"Paneer Chilly I Cheese"
+    },
+    {
+        "name":"Margreta",
+        "varients":["small","medium","large"],
+        "prices":[
+            {
+                "small":200,
+                "medium":350,
+                "large":400,
+            },
+        ],
+        "category":"veg",
+        "image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=428&q=80",
+        "description":"Margreta I Cheese"
+    },
+    {
+        "name":"Paneer Papper Pizza",
+        "varients":["small","medium","large"],
+        "prices":[
+            {
+                 "small":200,
+                "medium":350,
+                "large":400,
+            },
+        ],
+        "category":"nonveg",
+        "image":"https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=428&q=80",
+        "description":"Paneer Papper Pizza I Cheese"
+    },
+]
+
